@@ -5,6 +5,8 @@
 Zuul is an L7 application gateway that provides capabilities for dynamic routing, monitoring, resiliency, security, and more.
 Please view the wiki for usage, information, HOWTO, etc https://github.com/Netflix/zuul/wiki
 
+<img src="https://cdn-images-1.medium.com/max/1000/1*j9iGkeQ7bPK2nC1a7BgFOw.png" alt="img"></img>
+
 Here are some links to help you learn more about the Zuul Project. Feel free to PR to add any other info, presentations, etc.
 
 ---
